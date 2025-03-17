@@ -16,5 +16,5 @@ jobs:
             SONAR_TOKEN: ${{ secrets.SONARTOKEN }}
         with:
           args: >
-              -Dsonar.organization=rekhugopal
-              -Dsonar.projectKey=SonarCloudCodeAnalyisis
+              -Dsonar.organization=Gabo31029
+              -Dsonar.projectKey=c4ndyr0qu3
